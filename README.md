@@ -32,3 +32,27 @@ touch user.txt
 #### 5- When you run the script
 
 <img src="https://github.com/Adhaammohammed/Scripting-task/assets/147430078/c1d011d7-86a8-41a8-9039-de9ba7808efd.png" width="500">
+
+
+### 6- Functions
+
+ID_check Function:
+
+- Determines if the given ID is even or odd.
+- Returns "Even" for even IDs and "Odd" for odd IDs.
+
+Mail_check Function:
+
+- Validates email addresses using a regular expression.
+- Returns 0 for a successful match (valid email) and 1 for failure (invalid email).
+
+### 7- Main Loop
+
+ Checks for the presence of a name, email, and ID.
+ 
+ Prints relevant information based on conditions:
+- If there's no email, it prints "No email" and continues to the next iteration.
+- If there's no ID, it prints "No ID" and continues to the next iteration.
+- If there's no name, it prints "No name" and continues to the next iteration.
+- If the email is valid, it prints the ID status (even or odd).
+- If the email is invalid, it prints "Invalid email."
