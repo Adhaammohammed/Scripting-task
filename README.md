@@ -2,7 +2,7 @@
 
 This Bash script reads user information from a file (`user.txt`) and performs basic validation checks on names, email addresses, and IDs. It includes functions to determine whether an ID is even or odd and validates email addresses using a regular expression.
 
-## To use the script file 
+## To use the script  
 
 1- create a file named 'script.sh' to create the script in it
 ```
