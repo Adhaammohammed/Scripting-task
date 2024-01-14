@@ -4,7 +4,7 @@ This Bash script reads user information from a file (`user.txt`) and performs ba
 
 ## To use the script  
 
-1- create a file named 'script.sh' to create the script in it
+1- Create a file named 'script.sh' to create the script in it
 ```
 touch script.sh
 ```
@@ -29,6 +29,6 @@ touch user.txt
 ```
 
 
-#### when you run the script
+#### 5- When you run the script
 
 <img src="https://github.com/Adhaammohammed/Scripting-task/assets/147430078/c1d011d7-86a8-41a8-9039-de9ba7808efd.png" width="500">
