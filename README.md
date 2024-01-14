@@ -29,3 +29,6 @@ touch user.txt
 ```
 
 
+#### when you run the script
+
+<img src="https://github.com/Adhaammohammed/Scripting-task/assets/147430078/c1d011d7-86a8-41a8-9039-de9ba7808efd.png" width="500">
